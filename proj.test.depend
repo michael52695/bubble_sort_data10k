@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1359541859 source:c:\users\daniel\desktop\sorting\proj.test\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<fstream>
+
+1359541859 source:c:\users\daniel\desktop\bubble_sort\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<fstream>
+
